@@ -21,7 +21,7 @@
     "mongodb": "^4.13.0"
   },
   "engines": {
-    "node": "14.x"
+    "node": "20.x"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
